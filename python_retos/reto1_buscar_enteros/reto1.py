@@ -19,4 +19,4 @@ print("Enteros encontrados:", enteros)
 # Paso a paso:
 # 1. Cambia el texto de prueba.
 # 2. Modifica la expresión regular si es necesario.
-# 3. Ejecuta el script y observa los resultados.
+# 3. Ejecuta el script y observa los resultado.
